@@ -1451,8 +1451,8 @@ Veuillez patienter quelques minutes.</translation>
     </message>
     <message>
         <location filename="../../logic/strings/strings.h" line="47"/>
-        <source>%1 is made with ❤️ by Aaron Tan.</source>
-        <translation>%1 est crée avec ❤️ par Aaron Tan.</translation>
+        <source>%1 is made with ❤ by Aaron Tan.</source>
+        <translation>%1 est crée avec ❤ par Aaron Tan.</translation>
     </message>
     <message>
         <location filename="../../logic/strings/strings.h" line="50"/>

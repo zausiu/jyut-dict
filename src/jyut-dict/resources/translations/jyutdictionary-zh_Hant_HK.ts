@@ -1450,7 +1450,7 @@ Hang tight!</source>
     </message>
     <message>
         <location filename="../../logic/strings/strings.h" line="47"/>
-        <source>%1 is made with ❤️ by Aaron Tan.</source>
+        <source>%1 is made with ❤ by Aaron Tan.</source>
         <translation>%1由譚可峰精心打造。</translation>
     </message>
     <message>

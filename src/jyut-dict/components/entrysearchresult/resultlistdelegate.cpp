@@ -6,8 +6,8 @@
 #include "logic/settings/settingsutils.h"
 #include "logic/utils/utils_qt.h"
 
-#include <QGuiApplication>
 #include <QAbstractTextDocumentLayout>
+#include <QGuiApplication>
 #include <QRectF>
 #include <QTextDocument>
 #include <QTextLayout>
