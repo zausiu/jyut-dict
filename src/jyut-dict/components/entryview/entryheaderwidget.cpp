@@ -161,7 +161,7 @@ void EntryHeaderWidget::translateUI()
     });
 
     disconnect(_mandarinTTS, nullptr, nullptr, nullptr);
-    if (Settings::getCurrentLocale().country() == QLocale::Taiwan) {
+    if (Settings::getCurrentLocale().territory() == QLocale::Taiwan) {
         connect(_mandarinTTS, &QPushButton::clicked, this, [=]() {
 #ifdef Q_OS_MAC
             if (!_speaker->speakTaiwaneseMandarin(_pinyin)) {
